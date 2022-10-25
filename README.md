@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Tim👋
+
+I'm a full-stack developer specializing in native app and front-end development. Recently, I've been working on several iOS apps with a team of six engineers. We were constantly implementing new features such as Augmented Reality experiences, crypto algorithms and Covid-19 test- & vaccine appointments. Besides that, I've developed, designed and maintained multiple web applications which include front- and backend using React, Redux Toolkit, .NET and C#, MS SQL Server and more.
 
 <!--
 **timlangner/timlangner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
