@@ -1,4 +1,4 @@
-### Hi there I'm Tim👋
+### Hi there 👋
 
 I'm a full-stack developer specializing in native app and front-end development. Recently, I have been working on several iOS apps with a team of six engineers. We were constantly implementing new features such as Augmented Reality experiences, crypto algorithms and Covid-19 test- & vaccine appointments. Besides that, I've developed, designed and maintained multiple web applications which include front- and backend using React, Redux Toolkit, .NET and C#, MS SQL Server and other technologies.
 
